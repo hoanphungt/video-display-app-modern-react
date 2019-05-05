@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This is a simple React app following the Modern-React-With-Redux course by Stephen Grider. This app allows user to make a simple API request to https://console.developers.google.com/ to get access to Youtube Data API and to load Youtube videos of the search keywords. Finally, it will render a list of found videos on the right side of the screen using a CSS grid layout and the video will be played on the left side.
+This is a simple React app following the Modern-React-With-Redux course by Stephen Grider. 
+
+User can use this app to search for youtube videos and then play these videos.
+
+### How it works
+
+This app allows user to make a simple API request to https://console.developers.google.com/ to get access to Youtube Data API and to load Youtube videos of the search keywords. Finally, it will render a list of found videos on the right side of the screen using a CSS grid layout and the video will be played on the left side.
 
 ### How to run the project
 
